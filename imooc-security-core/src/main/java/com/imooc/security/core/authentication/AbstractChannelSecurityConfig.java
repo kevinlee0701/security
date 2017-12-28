@@ -12,7 +12,7 @@ import org.springframework.security.web.authentication.AuthenticationSuccessHand
 import com.imooc.security.core.properties.SecurityConstants;
 
 /**
- * @author zhailiang
+ * @author zhailiang ceshi
  *
  */
 public class AbstractChannelSecurityConfig extends WebSecurityConfigurerAdapter {
